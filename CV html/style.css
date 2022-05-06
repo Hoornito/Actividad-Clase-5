@@ -185,7 +185,7 @@ p
 {
     display: flex;
     flex-direction: row;
-    margin: 20px e;
+    margin: 20px 0;
 }
 .about .box .year_company
 {

@@ -15,7 +15,7 @@
             <div class="left_Side">
                 <div class="profileText">
                     <div class="imgBx">
-                        <img src="https://avatars.githubusercontent.com/u/103051181?v=4">
+                        <img src="https://avatars.githubusercontent.com/u/103051181?v=4" alt="Foto de perfil">
                     </div>
                 <h2>Agustin Fernandez Yaggi<br><span>.NET Dev</span></h2>
                 </div>
