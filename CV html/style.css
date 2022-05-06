@@ -229,7 +229,7 @@ p
     display: grid;
     grid-template-columns: repeat(4,1fr);
 }
-.interest ul
+.interest ul li
 {
     list-style: none;
     color: #333;

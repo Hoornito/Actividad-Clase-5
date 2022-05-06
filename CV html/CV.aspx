@@ -184,12 +184,13 @@
                 </div>
             </div>
 
-            <div class="about hobbies">
+            <div class="about interest">
                 <h2 class="title2">Hobbies</h2>
                 <ul>
-                    <li><i class="fa fa-gamepad" aria-hidden="true"></i> - Video Juegos</li>
-                    <li><i class="fa fa-music" aria-hidden="true"></i> - Musica</li>
-                    <li><i class="fa fa-car" aria-hidden="true"></i> - Automovilismo</li>
+                    <li><i class="fa fa-gamepad" aria-hidden="true"></i> Gaming</li>
+                    <li><i class="fa fa-music" aria-hidden="true"></i> Musica</li>
+                    <li><i class="fa fa-bed" aria-hidden="true"></i> Dormir</li>
+                    <li><i class="fa fa-futbol-o" aria-hidden="true"></i> Deporte</li>
                 </ul>
              </div>   
         </div>
