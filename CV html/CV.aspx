@@ -66,22 +66,22 @@
                 <h3 class="title">Idiomas</h3>
                 <ul>
                     <li>
-                        <span class="text">Ingles</span>
-                        <span class="percent">
+                        <div class="text">Ingles</div>
+                        <div class="percent">
                             <div style="width: 100%;"></div>
-                        </span>
+                        </div>
                     </li>
                     <li>
-                        <span class="text">Español</span>
-                        <span class="percent">
+                        <div class="text">Español</div>
+                        <div class="percent">
                             <div style="width: 100%;"></div>
-                        </span>
+                        </div>
                     </li>
                     <li>
-                        <span class="text">Frances</span>
-                        <span class="percent">
+                        <div class="text">Frances</div>
+                        <div class="percent">
                             <div style="width: 20%;"></div>
-                        </span>
+                        </div>
                     </li>
                 </ul>
             </div>
@@ -90,7 +90,12 @@
         <div class="right_Side">
             <div class="about">
                 <h2 class="title2">Perfil</h2>
-                <p>pepepepepepepepe</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id velit dui. Aliquam in facilisis diam. Integer pellentesque molestie tempor.
+                    Phasellus a velit ornare augue porttitor tristique a et est. Vestibulum maximus vestibulum ligula sed blandit.
+                    Integer fermentum velit non sem sagittis eleifend. Suspendisse venenatis nibh eu erat consectetur consequat.
+                    Proin varius molestie mi, et consequat sem pulvinar ac. Nam non erat gravida, dapibus sem nec, euismod arcu. Nam sit amet feugiat ex.
+                    Donec posuere condimentum nisi id venenatis. Curabitur efficitur id ligula ac varius. Cras quis sem sed nulla finibus commodo quis non quam.
+                    Vivamus faucibus id sapien ac lobortis. Cras tristique mi metus. Mauris non quam mauris.</p>
             </div>
             <div class="about">
                 <h2 class="title2">Experiencia Profesional</h2>
